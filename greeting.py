@@ -1,5 +1,5 @@
 hello = "Hello"
-name = "Sarah"
+name = input("Whats your name ?\n")
 
 greeting = hello + " " + name
 print(greeting)
