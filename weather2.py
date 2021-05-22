@@ -17,4 +17,4 @@ print("The minimun temprature is", temp_min)
 
 temp_max = json.get("main").get("temp_max")
 print("The maximum temprature is", temp_max)
-
+ 
