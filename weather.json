@@ -1,0 +1,46 @@
+{
+    "base": "stations",
+    "clouds": {
+      "all": 90
+    },
+    "cod": 200,
+    "coord": {
+      "lat": -34.6132,
+      "lon": -58.3772
+    },
+    "dt": 1621649376,
+    "id": 3435910,
+    "main": {
+      "feels_like": 13.88,
+      "humidity": 100,
+      "pressure": 1006,
+      "temp": 13.83,
+      "temp_max": 13.94,
+      "temp_min": 13.21
+    },
+    "name": "Buenos Aires",
+    "rain": {
+      "1h": 2.73
+    },
+    "sys": {
+      "country": "AR",
+      "id": 8224,
+      "sunrise": 1621593892,
+      "sunset": 1621630540,
+      "type": 1
+    },
+    "timezone": -10800,
+    "visibility": 5000,
+    "weather": [
+      {
+        "description": "moderate rain",
+        "icon": "10n",
+        "id": 501,
+        "main": "Rain"
+      }
+    ],
+    "wind": {
+      "deg": 110,
+      "speed": 8.75
+    }
+  }
