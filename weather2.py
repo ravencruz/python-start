@@ -1,7 +1,7 @@
 import requests
 
 city='Buenos Aires'
-api_key = '1368d72fe8a70a5a39722a181d9ce812'
+api_key = '##'
 
 url = "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=" + api_key + "&units=metric"
 
